@@ -1,5 +1,5 @@
-Modified manufacturer's driver with bugfixes, clean-up, and an additional
-USB ID for Edimax AC600.
+Modified manufacturer's driver for RTL 8188/8192/8811/8812/8821 USB WiFi
+with bugfixes, clean-up, and an additional USB ID for Edimax AC600.
 
 Patches have been tested on Linux 4.4.x.
 
