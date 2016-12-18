@@ -1,0 +1,6 @@
+Modified manufacturer's driver with bugfixes, clean-up, and an additional
+USB ID for Edimax AC600.
+
+Patches have been tested on Linux 4.4.x.
+
+Related project: https://github.com/pritambaral/hostapd-rtl871xdrv
