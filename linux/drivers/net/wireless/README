@@ -1,0 +1,2 @@
+The stock rtl8192cu and r8xxxu drivers must be disabled in order to use
+the manufacturer's driver 8192cu.
