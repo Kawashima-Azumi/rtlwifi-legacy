@@ -1,2 +1,3 @@
 source "drivers/net/wireless/realtek/rtl8192cu/Kconfig"
 source "drivers/net/wireless/realtek/rtl8821au/Kconfig"
+source "drivers/net/wireless/realtek/rtl8814au/Kconfig"
